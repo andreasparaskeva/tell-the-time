@@ -8,6 +8,8 @@ Implementations involved the following CNNs:
 - Cyclic encoding: Time is cyclic in nature, since it repeats its pattern in a circular motion. Input of CNN (time) has been cyclic encoded (sin and cos of both hour and minutes). 
 -Multihead models: Final approach involved a multi-head neural network, with two different heads for the hours and minutes prediction (hour classified and minutes cyclic encoded).
 
+Dataset used: [Collection of Analog Clocks](https://surfdrive.surf.nl/files/index.php/s/B8emtQRGUeAaqmz)
+
 ### Collaborators
 - [Andreas Paraskeva](https://www.linkedin.com/in/andreasparaskeva/)
 - [Pol Mor Puigventós](https://www.linkedin.com/in/pol-mor/)
